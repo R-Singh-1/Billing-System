@@ -1,0 +1,5 @@
+ 2 Butter 100 3
+ 3 Paneer 500 10
+ 4 Eggs 200 5
+ 5 Milk 60 2
+ 6 Orange 0 0
